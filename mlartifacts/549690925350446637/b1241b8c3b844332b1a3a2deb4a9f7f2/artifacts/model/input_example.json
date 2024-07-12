@@ -1,0 +1,1 @@
+{"columns": ["age", "sex", "cp", "trestbps", "chol", "fbs", "restecg", "thalach", "exang", "oldpeak", "slope", "ca", "thal"], "data": [[57, 1, 0, 132, 207, 0, 1, 168, 1, 0.0, 2, 0, 3]]}
